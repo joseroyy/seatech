@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+Disallow: /dist/
+
+# AI Crawlers & Answer Engine Optimization (AEO / GEO)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://www.seatechagencies.com/sitemap.xml
